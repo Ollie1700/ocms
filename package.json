@@ -1,0 +1,30 @@
+{
+  "name": "ahhhh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "html-loader": "^0.5.5",
+    "jquery": "^3.3.1",
+    "markdown-loader": "^2.0.2",
+    "md5": "^2.2.1",
+    "memory-fs": "^0.4.1",
+    "pell": "^1.0.4",
+    "showdown": "^1.8.6",
+    "to-string-loader": "^1.1.5",
+    "toastr": "^2.1.4",
+    "turndown": "^4.0.1",
+    "webpack": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  }
+}
